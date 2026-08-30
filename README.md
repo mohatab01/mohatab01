@@ -16,7 +16,7 @@ I'm a .NET Developer looking for a challenging role where I can build smart solu
 - 💻 Full Stack .NET Development — Information Technology Institute (ITI), Port Said (MCIT Intensive Training Program)
 - 📚 The Complete Web Development Bootcamp — Udemy
 - 📚 Freelancing Basics — MaharaTech
-- 📍 Based in Damietta, Egypt
+- 📍 Based in Cairo, Egypt
 - 🌱 Currently sharpening Clean Architecture, EF Core & Web API skills
 
 ---
