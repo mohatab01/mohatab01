@@ -3,7 +3,6 @@
 # Hi, I'm Mohamed Hatab 👋
 ### Full-Stack .NET Developer | ASP.NET Core • C# • Clean Architecture
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohatab01&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
