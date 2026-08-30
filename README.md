@@ -3,6 +3,7 @@
 # Hi, I'm Mohamed Hatab 👋
 ### Full-Stack .NET Developer | ASP.NET Core • C# • Clean Architecture
 
+![Profile Views](https://komarev.com/ghpvc/?username=mohatab01&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
@@ -52,6 +53,6 @@ I'm a .NET Developer looking for a challenging role where I can build smart solu
 
 ### 📫 Connect with Me
 
-🔗 [linkedin.com/in/mohamedhatab01](https://www.linkedin.com/in/mohamedhatab01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhatab01/)
 
 </div>
